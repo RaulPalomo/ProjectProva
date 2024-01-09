@@ -1,2 +1,11 @@
-﻿
-Console.WriteLine("hello world!!");
+﻿using System;
+namespace Project
+{
+    class Prova
+    {
+        public static void Main()
+        {
+           Console.WriteLine("hello world!!");
+        }
+    }
+}
